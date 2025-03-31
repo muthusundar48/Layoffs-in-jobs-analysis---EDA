@@ -61,7 +61,7 @@ GROUP BY stage
 ORDER BY 2 DESC;
 ```
 
-------Month wise layoffs in numbers
+---Month wise layoffs in numbers
 ```sql
 SELECT SUBSTRING(`date`,1,7) AS `MONTH`, SUM(total_laid_off) AS laid_off
 FROM layoffs_v2
