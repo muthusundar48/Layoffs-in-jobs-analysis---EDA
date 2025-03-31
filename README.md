@@ -15,7 +15,8 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** using SQL
 - **Dataset Name:** `cleaned_layoffs.csv`
 - **Source:** [Kaggle]  
 - **Size:** [1996*9]  
-- **Description:** [Here we discuss about the EDA on layoffs in companies and find the patterns and numbers]  
+- **Description:** [Here we discuss about the EDA on layoffs in companies and find the patterns and numbers]
+- `queries_eda.md` → SQL queries used for cleaning
 
 ## 🔎 Key Questions Answered in this EDA  
 ✔️ What are the **top companies laid off their employees**?  
