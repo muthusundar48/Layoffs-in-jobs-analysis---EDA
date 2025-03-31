@@ -12,7 +12,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** using SQL
 - **CTEs & Temporary Tables**  
 
 ## 📂 Dataset Details  
-- **Dataset Name:** [cleaned_layoffs.csv]
+- **Dataset Name:** [`cleaned_layoffs.csv`]
 - **Source:** [Kaggle]  
 - **Size:** [1996*9]  
 - **Description:** [Here we discuss about the EDA on layoffs in companies and find the patterns and numbers]  
@@ -23,4 +23,6 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** using SQL
 ✔️ Layoffs **as rolling total** 
 ✔️ Ranking companies based their **layoffs amount**?  
 ✔️ Layoffs in **Top 5 companies year wise**?
+
+
 
