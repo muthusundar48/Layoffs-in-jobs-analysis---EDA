@@ -1,4 +1,4 @@
-# Layoffs-in-jobs-analysis---EDA
+# Layoffs-in-jobs-analysis---EDA [Click here](https://github.com/muthusundar48/Layoffs-in-jobs-analysis---EDA/blob/main/queries_eda.md)
 This project is to analyze the layoffs happened in various companies in the past few years
 
 ## 📌 Project Overview  
